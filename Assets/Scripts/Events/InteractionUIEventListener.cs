@@ -21,7 +21,6 @@ public class InteractionUIEventListener : MonoBehaviour
 
     private void Respond(bool state)
     {
-        Debug.Log(state);
         OnEventRaised?.Invoke(state);
     }
 
