@@ -2,7 +2,7 @@
 
 Welcome! This is the repository for the project where I implemented simple scene to test out **Unity** toolkit.
 
-![Scene Screenshot](/Docs/ReadmeImages/Main_header.jpg)
+![Scene Screenshot](/Wiki/Screen1.png)
 _An entry frame of the demo_
 
 
